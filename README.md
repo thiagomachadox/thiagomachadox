@@ -1,6 +1,7 @@
 ### Hi, I'm Thiago!
 
-I'm a tech enthusiast focusing on solving companies problems by writing good and clean code. 
+I'm a tech enthusiast focusing on solving companies problems by writing good and clean code and learning everyday. 
+
 I'm into software engineering, process automation and data.
 
 <!--
