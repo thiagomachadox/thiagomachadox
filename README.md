@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Thiago!
+
+I'm a tech enthusiast focusing on solving companies problems by writing good and clean code. 
+I'm into software engineering, process automation and data.
 
 <!--
 **thiagomachadox/thiagomachadox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
