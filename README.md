@@ -1,20 +1,12 @@
-### Hi, I'm Thiago!
+### Hi, I'm Thiago! 🚀
 
-I'm a tech enthusiast focusing on solving companies problems by writing good and clean code and learning everyday. 
+[![Email](https://img.shields.io/badge/-Email-0f4c81?style=flat-square&logo=Gmail&logoColor=white)](mailto:thiagomachadox@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0f4c81?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoizidoro)
+
+I'm a technology enthusiast in love with solving problems through code and providing sustainable growth and scalability to the projects I work on.
 
 I'm into software engineering, process automation and data.
 
-<!--
-**thiagomachadox/thiagomachadox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![thiagomachadox](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomachadox&hide=html&layout=compact&theme=tokyonight)](https://github.com/thiagomachadox/)
