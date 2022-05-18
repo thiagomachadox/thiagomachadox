@@ -5,7 +5,7 @@
 
 I'm a technology enthusiast in love with solving problems through code and providing sustainable growth and scalability to the projects I work on.
 
-I'm into software engineering, process automation and data.
+I'm into software engineering and automated testing.
 
 ##
 
